@@ -23,4 +23,5 @@ Também é possível encontrar um pouco sobre os clientes, parceiros e projetos 
 Navegando pela página é possível entrar em contato com a empresa e até realizar o envio de arquivos como currículos, que serão recebidos por email pelo setor responsável.
 
 ![image](https://user-images.githubusercontent.com/51246610/131897773-3fe67c35-fced-4e6c-b7ad-805876fc22d7.png)
+
 O site Também é otimizado para a visualização através de dispositivos móveis.
